@@ -9,4 +9,3 @@ for (const key in dict) {
   }
 }
 console.log(newDict);
-
